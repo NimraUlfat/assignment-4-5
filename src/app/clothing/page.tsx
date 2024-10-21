@@ -1,6 +1,6 @@
 export default function Clothing(){
     return(
-        <section className="bg-pink-200 text-gray-600 body-font">
+        <section className="color-white text-gray-600 body-font">
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
       <img className="object-cover object-center rounded" alt="hero" src="https://img.freepik.com/premium-vector/happy-young-pakistan-couple-holding-pakistan-national-flag-gifts_981400-106.jpg"></img>

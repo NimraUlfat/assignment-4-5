@@ -11,10 +11,11 @@ export default function Home() {
     <div>
       <Blog/>
       
-      <About/>
+      
           </div>
   );
 }
+
 <Contact/>
 
 
